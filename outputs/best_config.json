@@ -1,0 +1,12 @@
+{
+    "num_layers": 3,
+    "num_heads": 4,
+    "embed_dim": 128,
+    "ff_dim": 512,
+    "dropout": 0.4,
+    "weight_decay": 0.000669470000289746,
+    "lr": 0.0006242278070527685,
+    "batch_size": 64,
+    "input_dim": 22,
+    "num_classes": 4
+}
