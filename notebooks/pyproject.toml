@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "TFM Inteligencia Artificial"
+version = "0.1.0"
+description = "Pronóstico de terremotoso (OEF)"
+authors = [
+    { name = "Juan José Galiana Merino", email = "jj.galiana@ua.es" }
+]
+dependencies = [
+    "pandas",
+    "geopandas",
+    "matplotlib",
+    "numpy",
+]
+requires-python = ">=3.9"
